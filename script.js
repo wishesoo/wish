@@ -3,6 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
     const wishMessage = document.querySelector('.wish-message');
 
     wishButton.addEventListener('click', function () {
-        wishMessage.textContent = "Thank you for borning and letting me feel your existence! You're really the coolest and the best one";
+        wishMessage.textContent = "Thank you so much for being born and making an appearence in my life! Wish you'll be the happiest one ever with me forever.";
     });
 });
